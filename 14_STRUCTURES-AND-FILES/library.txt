@@ -1,0 +1,11 @@
+LIBRARY 
+BOOKS IN THE LIBRARY
+Book_Title: Python for proffesions|| Book_Author: Strawberry team|| Book_Id: 1
+Book_Title: Introduction to OOP with Java|| Book_Author: Crispen Gari|| Book_Id: 2
+Book_Title: Intoduction to hacking|| Book_Author: Mark Hennry|| Book_Id: 3
+Book_Title: C for beginners|| Book_Author: Markusom Redfox|| Book_Id: 4
+
+THE LIBRARY'S LIBRARIAN 
+THE LIBRARY'S Name: Zig-Zag Magic
+THE LIBRARY'S Surname: Gromatong
+THE LIBRARY'S Title: Miss: 
